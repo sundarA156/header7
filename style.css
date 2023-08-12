@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #f1f1f1;
+}
+.container {
+    display: flex;
+    background-color: rgb(5, 5, 31);
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.616);
+}
+.container {
+    margin: 10px;
+    padding: 30px 40px;
+}
+.container ul {
+    display: flex;
+}
+.container ul {
+    list-style-type: none;
+}
+.container ul li {
+    margin: 0 10px;
+    padding: 5px 10px;
+}
+.container ul li a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.container ul li a:hover {
+      color: limegreen;
+}
+.icons a{
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+}
+button {
+    padding: 5px 10px;
+    border-radius: 10px;
+    
+}
+.buynow {
+    background-color:#f1f1f1;
+    color: rgb(69, 182, 69);
+}
+.discover {
+    background-color: rgb(233, 19, 55);
+}
+.buynow:hover {
+    background-color: goldenrod;
+}
+.discover:hover {
+    background-color: goldenrod;
+}
+.container2 {
+    display: flex;
+    background-color: rgb(65, 65, 212);
+    justify-content: end;
+    position: relative;
+    align-items: center;
+    text-decoration: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.616);
+}
+.container2 {
+    margin: 10px;
+    padding: 30px 40px;
+}
+.list ul {
+    display: flex;
+}
+.list ul {
+    list-style-type: none;
+}
+.list ul li {
+    margin: 0 10px;
+    padding: 5px 10px;
+}
+.list ul li a {
+    
+    font-size: 20px;
+    text-decoration: none;
+    color: #f1f1f1; 
+    float: right;
+}
+.sicons {
+    list-style-type: none;
+}
+.sicons a {
+    margin: 0 10px;
+    font-size: 30px;
+    color: #f1f1f1;
+    
+}
+.icons1 a{
+    color: white;
+    margin: 15px;
+    position: absolute;
+    text-decoration: none;
+    left: 40px;
+    margin-top: -10px;
+}
+.container4 {
+    display: flex;
+    background-color: rgb(49, 226, 49);
+    justify-content: end;
+    align-items: center;
+    text-decoration: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.705);
+}
+.container4 {
+    margin: 10px;
+    padding: 30px 40px;
+}
+.list2 ul {
+    display: flex;
+}
+.list2 ul {
+    list-style-type: none;
+}
+.list2 ul li {
+    margin: 0 10px;
+    padding: 5px 10px;
+}
+.list2 ul li a {
+    
+    font-size: 20px;
+    text-decoration: none;
+    color: #f1f1f1; 
+}
+.icons3 a {
+    color: #f1f1f1;
+    margin: 20px;
+    position: absolute;
+    text-decoration: none;
+    left: 40px;
+    margin-top: -10px;
+}
+.socialicon a {
+list-style-type: none;
+}
+.socialicon a {
+    margin: 0 10px;
+    font-size: 20px;
+    color: #f1f1f1;
+}
+.socialicon a {
+margin: 15px;
+text-decoration: none;
+}
+button {
+    font-size: 20px;
+    border: none;
+    outline: none;
+    padding: 10px 12px;
+    border-radius: 10px;
+    background-color: blue;
+    color: #f1f1f1;
+}
+button:hover {
+    background-color: goldenrod;
+}
+.container3 {
+    display: flex;
+    background-color: rgb(223, 12, 47);
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.616);
+}
+.container3 {
+    margin: 10px;
+    padding: 30px 40px;
+}
+.sicons1 {
+    list-style-type: none;
+}
+.sicons1 a {
+    margin: 0 10px;
+    font-size: 20px;
+    color: #f1f1f1;
+    
+}
+.sicons1 a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+  
+}
+.icons2 a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+}
